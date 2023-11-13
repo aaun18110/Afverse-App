@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "599370042515",
+    "project_id": "ecommerce-app-8b820",
+    "storage_bucket": "ecommerce-app-8b820.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599370042515:android:c9752536510a6d521b9166",
+        "android_client_info": {
+          "package_name": "com.alitech.shopping_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599370042515-b24nk5a4ubsktu8slolkj22n2s5bjlf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alitech.shopping_app",
+            "certificate_hash": "2e5668c3899075734a2a38dc66989b2ec5bf83d3"
+          }
+        },
+        {
+          "client_id": "599370042515-2670tkufue7i3soioe5geei847kf8qqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFne_-Ad1WhxZd8XsyVRlKk3XmBPY4MzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599370042515-2670tkufue7i3soioe5geei847kf8qqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
